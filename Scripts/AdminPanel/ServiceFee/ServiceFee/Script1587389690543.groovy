@@ -20,6 +20,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://v9.systrixit.com/admin')
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Object Repository/Page_EmTrip/input_Username_UserName'), 'DevAdmin')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_EmTrip/input_Password_Password'), 'PBcz0Z3Mvwo05TOG3o1JjQ==')
