@@ -40,7 +40,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Admin_ServiseFee_Obj
     'OneWay', true)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Admin_ServiseFee_Obj/Page_Welcome to Admin Panel/select_--Select Supplier--AirArabiaAirIndia_a3f384'), 
-    'FlyDubai', true)
+    'AirArabia', true)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Admin_ServiseFee_Obj/Page_Welcome to Admin Panel/select_---Select Rule ---AirlinesCountryCit_127fa7'), 
     '4', true)
