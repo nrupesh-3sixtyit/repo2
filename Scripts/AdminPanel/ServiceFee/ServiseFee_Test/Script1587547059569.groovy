@@ -22,9 +22,9 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://pre-prod.emtrip.solutions/Admin')
 
-WebUI.setText(findTestObject('Object Repository/Admin_ServiseFee_Obj/Page_EmTrip/input_Username_UserName'), 'devAdmin')
+WebUI.setText(findTestObject('Object Repository/Admin_ServiseFee_Obj/Page_EmTrip/input_Username_UserName'), UserName)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Admin_ServiseFee_Obj/Page_EmTrip/input_Password_Password'), 'PBcz0Z3Mvwo05TOG3o1JjQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Admin_ServiseFee_Obj/Page_EmTrip/input_Password_Password'), Password)
 
 WebUI.click(findTestObject('Object Repository/Admin_ServiseFee_Obj/Page_EmTrip/input_Forgot your password_button-orange lo_051760'))
 

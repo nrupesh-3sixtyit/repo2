@@ -5,4 +5,18 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>752a40c4-6f83-4ae9-ae35-25574e471882</testCaseGuid>
+   <variable>
+      <defaultValue>'DevAdmin'</defaultValue>
+      <description></description>
+      <id>b60ae226-85a0-4bd1-9609-3eb52700b38f</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>'DevAdmin'</defaultValue>
+      <description></description>
+      <id>d625e1d1-1286-4291-ab00-a5ff9888a5bf</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
 </TestCaseEntity>
